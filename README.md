@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá! Meu nome é Deboorah
 
-<!--
-**d-campos-SE/d-campos-SE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre Mim
+Sou uma estudante de Engenharia de Software no primeiro semestre, apaixonada por resolver problemas e aprender novas tecnologias. Atualmente, estou focado em aprender os fundamentos de Python, Java e C# C++ e desenvolvimento web.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Meus Projetos em Destaque
+
+Ainda estou começando, mas aqui vou listar progetos que trabalhei/quero trabalhar.
+
+.
+---
+
+### 📫 Como me encontrar
+Email: deborah.campos@faculdadegran.edu.br
