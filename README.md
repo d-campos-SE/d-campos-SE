@@ -1,7 +1,7 @@
-Olá! Meu nome é Deboorah
+Olá! Meu nome é Deborah
 
 ### 👨‍💻 Sobre Mim
-Sou uma estudante de Engenharia de Software no primeiro semestre, apaixonada por resolver problemas e aprender novas tecnologias. Atualmente, estou focado em aprender os fundamentos de Python, Java e C# C++ e desenvolvimento web.
+Sou uma estudante de Engenharia de Software no primeiro semestre, apaixonada por resolver problemas e aprender novas tecnologias. Atualmente, estou focada em aprender os fundamentos de Python, Java e C# C++ e desenvolvimento web.
 
 
 ### 🚀 Meus Projetos em Destaque
